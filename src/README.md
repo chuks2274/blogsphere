@@ -314,7 +314,7 @@ npm -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blogsphere.git
+git clone https://github.com/chuks2274/blogsphere.git
 ```
 
 Navigate into the project:
